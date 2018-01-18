@@ -1,0 +1,8 @@
+prefix=/home/rflab/robot_ws/devel
+
+Name: myturtlebot
+Description: Description of myturtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rflab/robot_ws/devel/lib 
+Requires: 
